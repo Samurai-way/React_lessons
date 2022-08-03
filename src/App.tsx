@@ -32,7 +32,7 @@ function App() {
 
         }])
     }
-
+    console.log()
     let tasksForRender;
     switch (filter) {
         case "completed":
