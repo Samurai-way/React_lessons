@@ -53,6 +53,7 @@ export function Todolist(props: PropsType) {
             <button onClick={onClickSetFilterAll}>All</button>
             <button onClick={onClickSetFilterActive}>Active</button>
             <button onClick={onClickSetFilterCompleted}>Completed</button>
+            <p>Хай!</p>
         </div>
     </div>
 }
