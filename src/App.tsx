@@ -23,7 +23,7 @@ function App() {
     const changeFilter = (filter: FilterValueType) => {
         setFilter(filter)
     }
-
+    console.log()
     let addTasks = (title: string) => {
         setTasks([...tasks ,{
             id: v1(),
