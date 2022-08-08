@@ -18,3 +18,10 @@
   background-color: dimgrey;
   border-radius: 2px;
 }
+.error {
+  border: red 1px solid;
+}
+
+.error-message {
+  color: red;
+}
