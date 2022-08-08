@@ -6,3 +6,15 @@
 .App > div {
   margin-right: 50px;
 }
+
+.isDone {
+  color: red;
+  font-weight: bold;
+  text-decoration: line-through;
+}
+
+.activeButton {
+  color: lime;
+  background-color: dimgrey;
+  border-radius: 2px;
+}
