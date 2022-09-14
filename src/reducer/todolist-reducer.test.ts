@@ -15,7 +15,10 @@ test.skip('correct todolist should be removed', () => {
     const startState: Array<TodolistType> = [
         {id: todolistId1, title: 'What to learn', filter: 'all'},
         {id: todolistId2, title: 'What to buy', filter: 'all'}
+
     ]
+
+
 
     const endState = todolistsReducer(startState, todolistsReducerAC(todolistId1))
 
