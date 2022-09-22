@@ -18,7 +18,9 @@
     "gh-pages": "^4.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-redux": "^8.0.2",
     "react-scripts": "3.4.1",
+    "redux": "^4.2.0",
     "typescript": "~3.7.2",
     "uuid": "^8.3.2",
     "web-vitals": "^2.1.4"
